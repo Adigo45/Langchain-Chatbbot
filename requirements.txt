@@ -5,3 +5,4 @@ python-dotenv
 PyPDF
 faiss-cpu
 tiktoken
+langchain-groq
