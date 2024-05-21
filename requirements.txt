@@ -6,3 +6,4 @@ PyPDF
 faiss-cpu
 tiktoken
 langchain-groq
+ipykernel
